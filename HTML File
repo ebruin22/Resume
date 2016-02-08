@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>
+		<h1>Resume</h1>
+		</title>
+	</head>
+	<body>
+	<div id="header">
+	<h1>Erika Magallon</h1>
+	</div>
+	<div class="left"></div>
+	<div class="right">
+	<h4>Objective</h4>
+	<p>To obtain a software engineering job.</p>
+	<h4>Experience</h4>
+	<p>My previous experience</p>
+	<ul>
+	    <li>Some info about previous job
+	    </li>
+	    <li>More info on experience</li>
+   </ul>
+	</div>
+	<div id="footer">
+	<address>
+	My Info</address>
+	</div>
+	
+	</body>
+</html>
